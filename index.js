@@ -4,7 +4,6 @@ function random_item(items) {
     
     var items = ["yes", "no", "It is certain", "It is decidedly so", "Without a doubt", "Yes definitely", "You may rely on it", 
     "As I see it, yes", "Most likely", "Don’t count on it", "Very doubtful", "My sources say no", "Definitely not"];
-    // console.log(random_item(items));
 
 function submit() {
 
