@@ -26,6 +26,7 @@ body {
     margin: auto;
     margin-top: 35%;
     padding-top: 2%;
+    border-radius: 20px;
 }
 
 #answer {
