@@ -16,7 +16,12 @@ function submit() {
     var content = `
     <p id="answer">${(random_item(items))}</p>`;
 
+    var qlog = `
+    <p>${question}</p>`;
+
     document.getElementById("baller").innerHTML = content;
 
     document.getElementById("question").value = "";
+
+    document.getElementById("qlog").innerHTML = qlog;
 };
